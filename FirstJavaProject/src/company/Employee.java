@@ -10,6 +10,7 @@ public class Employee {
 	static double basicSalary;
 	static double specialAllowance = 250.80;
 	static double hra = 1000.50;
+	static String email;
 	
 	protected static long getEmployeeId() {
 		return employeeId;
